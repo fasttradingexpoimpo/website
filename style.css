@@ -1,0 +1,302 @@
+
+body{
+ margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #022879fa;
+  
+}
+
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+}
+
+.efeito{
+    background-color: #022779;
+    color: white;
+    font-family: monospace;
+    margin-top: 0px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+.divona{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 0px;
+    background-image: url('Imagem\ do\ WhatsApp\ de\ 2024-05-30\ à\(s\)\ 16.08.45_e37dc731.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    height: 700px;
+    padding: 0px;
+  
+    
+}
+
+.logo{
+    margin-top: 0px 0px;
+    width: 50%;
+}
+
+button{
+    height: 90px;
+    width: 350px;
+    margin-right: 60px;
+    font-size: 1.3rem;
+    background-color: rgb(138, 138, 138);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    transition: background-color 0.2s ease;
+    margin-bottom: 0px;
+    margin: 20px;
+    
+    
+}
+
+button:hover {
+    background-color: #022779;
+    cursor: pointer;
+}
+
+
+.foto01{
+    width: 100%;
+    height: 800px;
+    
+}
+
+iframe{
+    width: 90%;
+}
+
+.conhecaefotos{
+   
+    width: 1000%px;
+    height: 600px;
+    margin-top: 20px;
+    text-align: center;
+   
+  
+    
+}
+
+#conheca{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+
+.principal{
+    gap: 40px;
+    width: 200px;
+    height:130px;
+    margin-left: 80px;
+    display: flex;
+    
+}
+
+
+#fotoservico{
+    border-radius: 15px;
+    width: 210px;
+    height: 350px;
+   
+   
+     
+    
+     
+ }
+
+
+.grid02{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 50px;
+
+   
+}
+
+
+
+.quemsomos{
+    text-align: start;
+    width: auto;
+    height: 260px;
+    margin: 63px;
+    padding: 80px 60px;
+    background-color: #ffffff ;
+    border-radius: 20px;
+    background-color: #1450d37e;
+    
+}
+
+#qs{
+    margin-right: 20px;
+    margin: -20px ;
+    padding-left: 15px;
+    font-size: 43px;
+    color: white;
+ }
+ 
+
+#pquemsomos{
+    text-align: justify;
+    margin-top: 60px;
+    color: white;
+    font-size: 1.3rem;
+   
+    
+}
+
+
+
+span{
+    color: #f08b17;
+    font-size: 100px;
+}
+
+
+#processos{
+    margin-top: 50px;
+    font-size: 30px;
+  
+}
+
+
+.contato{
+    margin: 70px;
+}
+
+
+
+
+#faleconosco{
+    font-size: 35px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+
+#c{
+    font-size: 20px;
+    color: white;
+}
+
+
+footer{
+    width: auto;
+    height: 70px;
+    background: white;
+    text-align: center;
+    color: #022779;
+    margin-top: 0px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+   
+  
+} 
+
+
+.card{
+    background-color: #ffffff;
+    width: 220px;
+    height: 290px;
+    border-radius:12px ;
+    box-shadow: 4px 4px 12px #5a8af3;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: transform 0.3s ease; 
+
+   
+}
+
+.cardis{
+   display: inline-block;
+   width: 100%;
+
+}
+
+
+.card:hover{
+    transform: translateY(-30px);
+}
+
+
+.card div{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+   
+}
+
+.card h1 {
+    font-size: 1.7rem;
+    color: black;
+}
+
+.card img {
+    width: 100%;
+    height: 130px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+
+#jaforam {
+    color: white;
+    font-size: 4rem;
+}
+
+.tiposservicos{
+   display: inline-flex;
+   color: #f08b17;
+   font-size: 1.1rem;
+   background-color: #05308b;
+   margin-top: 20px;
+   width: 90%;
+   gap: 80px;
+   margin-left: 90px;
+   text-align: center;
+   justify-content: center;
+   
+   
+}
+
+iframe{
+   margin: 50px;
+  
+}
+
+.video{
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    margin-left: 100px;
+     
+}
+
+.comex{
+    font-size: 3.6rem;
+    color: #f08b17;
+    padding: 30px;
+    padding-top: 60px;
+    
+    
+}
